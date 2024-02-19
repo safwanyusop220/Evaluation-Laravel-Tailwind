@@ -18,7 +18,8 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git](https://github.com/safwanyusop220/Evaluation-Laravel-Tailwind.git
+    git clone https: https://github.com/safwanyusop220/Evaluation-Laravel-Tailwind.git
+    
     ```
 
 2. Navigate to the project directory:
